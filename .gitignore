@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Java / Maven
+target/
+
+# Node / React
+node_modules/
+dist/
+
+# Environment / secrets
+.env
+application.properties
