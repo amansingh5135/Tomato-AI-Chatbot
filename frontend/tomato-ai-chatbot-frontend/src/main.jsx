@@ -61,7 +61,7 @@ function App() {
         {
           id: Date.now() + 1,
           role: "error",
-          text: "Unable to connect to Tomato Support. Please make sure the Spring Boot backend is running on port 8080."
+          text: "Internal Server ERROR. Something went wrong. Please try again in a moment."
         }
       ]);
     } finally {
